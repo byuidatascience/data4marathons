@@ -214,7 +214,7 @@ dpr_document(marathon_jerusalem, extension = ".R.md", export_folder = usethis::p
 
 dpr_document(marathon_location, extension = ".R.md", export_folder = usethis::proj_get(),
              object_name = "marathon_location", 
-             title = "All of the runners for one year of data for marathons with lat and long locations",
+             title = "All of the runners for marathons with lat and long locations",
              description = "This data set has ~150k observations.",
              source = "http://faculty.chicagobooth.edu/george.wu/research/marathon/data.htm",
              var_details = runner_details)

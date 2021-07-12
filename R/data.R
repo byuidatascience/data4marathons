@@ -151,7 +151,7 @@
 
 
 #'
-#' @title All of the runners for one year of data for marathons with lat and long locations
+#' @title All of the runners for marathons with lat and long locations
 #' @description This data set has ~150k observations.
 #' @format A data frame with columns:
 #' \describe{

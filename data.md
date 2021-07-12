@@ -178,7 +178,7 @@ A data frame with columns:
 
 
 
-## All of the runners for one year of data for marathons with lat and long locations
+## All of the runners for marathons with lat and long locations
 
 The data is called marathon_location.
 

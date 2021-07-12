@@ -3,7 +3,7 @@
 \docType{data}
 \name{marathon_location}
 \alias{marathon_location}
-\title{All of the runners for one year of data for marathons with lat and long locations}
+\title{All of the runners for marathons with lat and long locations}
 \format{
 A data frame with columns:
 \describe{
